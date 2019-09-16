@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  CategoryTest
+//
+//  Created by 刘艳芹 on 2019/9/16.
+//  Copyright © 2019 刘艳芹. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "NSObject+Swizzle.h"
+#import <objc/runtime.h>
+
+#endif /* PrefixHeader_pch */
